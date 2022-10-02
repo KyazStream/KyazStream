@@ -11,9 +11,9 @@
 
 - 🤝 I'm looking to get my bot everywhere. **Maverike**
 
-- 📝 I share scripts here. [https://discord.gg/PAxXFBK2sA](https://discord.gg/PAxXFBK2sA)
+- 📝 I share scripts here. [Zone Développement](https://discord.gg/PAxXFBK2sA)
 
-- 📫 How to reach me **https://discord.gg/KmYbsSMgjA**
+- 📫 How to reach me https://discord.gg/KmYbsSMgjA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
