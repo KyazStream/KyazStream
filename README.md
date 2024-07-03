@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Maverike](https://discord.com/api/oauth2/authorize?client_id=951211128539729941&permissions=8&scope=bot)
+- 🔭 I’m currently working on [Obsidian](https://discord.com/api/oauth2/authorize?client_id=934564786837016587&permissions=8&scope=bot)
 
-- 🤝 I'm looking to get my bot everywhere. **Maverike**
+- 🤝 I'm looking to get my bot everywhere. **Obsidian**
 
-- 📝 I share scripts here. [Zone Développement](https://discord.gg/PAxXFBK2sA)
+- 📝 I share scripts here. [Five Studio]([https://discord.gg/PAxXFBK2sA](https://discord.gg/ZqbQej2YkV))
 
-- 📫 How to reach me https://discord.gg/KmYbsSMgjA
+- 📫 How to reach me [My DISCORD](https://discord.gg/7w6X3WFJBY)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
